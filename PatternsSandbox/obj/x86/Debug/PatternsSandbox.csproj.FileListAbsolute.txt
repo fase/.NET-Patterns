@@ -1,0 +1,5 @@
+c:\users\jfasenmyer\documents\visual studio 2010\Projects\PatternsSandbox\PatternsSandbox\bin\Debug\PatternsSandbox.exe
+c:\users\jfasenmyer\documents\visual studio 2010\Projects\PatternsSandbox\PatternsSandbox\bin\Debug\PatternsSandbox.pdb
+c:\users\jfasenmyer\documents\visual studio 2010\Projects\PatternsSandbox\PatternsSandbox\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jfasenmyer\documents\visual studio 2010\Projects\PatternsSandbox\PatternsSandbox\obj\x86\Debug\PatternsSandbox.exe
+c:\users\jfasenmyer\documents\visual studio 2010\Projects\PatternsSandbox\PatternsSandbox\obj\x86\Debug\PatternsSandbox.pdb
